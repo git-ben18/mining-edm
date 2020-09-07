@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bd013df2cf18643e3e8a444db8e0063a",
+    "revision": "d79b75ecd6467322e28bc77d1519bc85",
     "url": "/mining-edm/index.html"
   },
   {

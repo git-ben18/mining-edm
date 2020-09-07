@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mining-edm/precache-manifest.849e75e7c28864e7cc7b70febbe2bb53.js"
+  "/mining-edm/precache-manifest.96e192816dfc0c22f3d6b09dcaa5312f.js"
 );
 
 self.addEventListener('message', (event) => {
