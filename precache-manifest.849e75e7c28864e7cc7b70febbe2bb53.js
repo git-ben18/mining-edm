@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ab70a760fa4f31e0f52a4b5ee1ab4716",
+    "revision": "bd013df2cf18643e3e8a444db8e0063a",
     "url": "/mining-edm/index.html"
   },
   {
-    "revision": "d2e5997df62154e132dc",
+    "revision": "5ae7a8732df523bf19bf",
     "url": "/mining-edm/static/css/main.606b47fd.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mining-edm/static/js/2.7bffe5c4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d2e5997df62154e132dc",
-    "url": "/mining-edm/static/js/main.80122600.chunk.js"
+    "revision": "5ae7a8732df523bf19bf",
+    "url": "/mining-edm/static/js/main.b83fb2db.chunk.js"
   },
   {
     "revision": "323885d0b107ab80ede5",

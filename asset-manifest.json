@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mining-edm/static/css/main.606b47fd.chunk.css",
-    "main.js": "/mining-edm/static/js/main.80122600.chunk.js",
-    "main.js.map": "/mining-edm/static/js/main.80122600.chunk.js.map",
+    "main.js": "/mining-edm/static/js/main.b83fb2db.chunk.js",
+    "main.js.map": "/mining-edm/static/js/main.b83fb2db.chunk.js.map",
     "runtime-main.js": "/mining-edm/static/js/runtime-main.15644427.js",
     "runtime-main.js.map": "/mining-edm/static/js/runtime-main.15644427.js.map",
     "static/js/2.7bffe5c4.chunk.js": "/mining-edm/static/js/2.7bffe5c4.chunk.js",
     "static/js/2.7bffe5c4.chunk.js.map": "/mining-edm/static/js/2.7bffe5c4.chunk.js.map",
     "index.html": "/mining-edm/index.html",
-    "precache-manifest.3aa3071a6671dc1f32809ea938bfdaf8.js": "/mining-edm/precache-manifest.3aa3071a6671dc1f32809ea938bfdaf8.js",
+    "precache-manifest.849e75e7c28864e7cc7b70febbe2bb53.js": "/mining-edm/precache-manifest.849e75e7c28864e7cc7b70febbe2bb53.js",
     "service-worker.js": "/mining-edm/service-worker.js",
     "static/css/main.606b47fd.chunk.css.map": "/mining-edm/static/css/main.606b47fd.chunk.css.map",
     "static/js/2.7bffe5c4.chunk.js.LICENSE.txt": "/mining-edm/static/js/2.7bffe5c4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.15644427.js",
     "static/js/2.7bffe5c4.chunk.js",
     "static/css/main.606b47fd.chunk.css",
-    "static/js/main.80122600.chunk.js"
+    "static/js/main.b83fb2db.chunk.js"
   ]
 }
